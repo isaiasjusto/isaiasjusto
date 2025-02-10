@@ -7,9 +7,9 @@
 <div>
     <a href="https://github.com/isaiasjusto">
         <!-- Estatísticas principais (commits, estrelas, etc.) -->
-        <img height="110" src="https://github-readme-stats.vercel.app/api?username=isaiasjusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="140" src="https://github-readme-stats.vercel.app/api?username=isaiasjusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <!-- Linguagens mais usadas -->
-        <img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasjusto&layout=compact&langs_count=8&theme=tokyonight"/>
+        <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasjusto&layout=compact&langs_count=8&theme=tokyonight"/>
     </a>
 </div>
 <div style="display: inline-block">
