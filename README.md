@@ -12,6 +12,11 @@
         <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasjusto&layout=compact&langs_count=8&theme=tokyonight"/>
     </a>
 </div>
+
+
+##
+
+
 <div style="display: inline-block">
     <!-- Ícones de tecnologias -->
     <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg">
@@ -19,6 +24,11 @@
     <img align="center" alt="Data Bricks" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+
+##
+
+
 <div>
     <!-- Badges de redes sociais -->
     <a href="https://discord.gg/rafaballerini" target="_blank">
@@ -27,7 +37,7 @@
     <a href="mailto:isaiasj2906@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://www.linkedin.com/in/isaiasjusto" target="_blank">
+    <a href="https://www.linkedin.com/in/isaias-justo-a8b998185/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 
