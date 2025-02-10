@@ -7,9 +7,9 @@
 <div>
     <a href="https://github.com/isaiasjusto">
         <!-- Estatísticas principais (commits, estrelas, etc.) -->
-        <img height="140" src="https://github-readme-stats.vercel.app/api?username=isaiasjusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=isaiasjusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <!-- Linguagens mais usadas -->
-        <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasjusto&layout=compact&langs_count=8&theme=tokyonight"/>
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasjusto&layout=compact&langs_count=8&theme=tokyonight"/>
     </a>
 </div>
 
@@ -41,6 +41,9 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 
-    <!-- Animação da cobrinha do GitHub -->
-    <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+##
+
+
+<img alt="Isa-gif" src = "https://gist.githubusercontent.com/vinimyls/f5ab813be54a3b6e9c4c11f7454382bb/raw/9a31583d7405facc119a48cb3ae76f387bb30af2/Study.gif">
+
+##
