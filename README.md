@@ -3,6 +3,7 @@
 - 🔭 Hoje eu trabalho com Ciencia de dados
 - 🌱 Estudando Machine Learning
 - 😁 Entusiasmado pela vida
+- 🔎 Foco em projetos
 
 <div>
     <a href="https://github.com/isaiasjusto">
