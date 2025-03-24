@@ -1,6 +1,6 @@
 ## Olá eu sou Isaias 👋
 
-- 🔭 Hoje, eu trabalho com Ciencia de dados
+- 🔭 Hoje, eu trabalho com Ciencia de dados !
 - 🌱 Estudando Machine Learning
 - 😁 Entusiasmado pela vida
 - 🔎 Foco em projetos
