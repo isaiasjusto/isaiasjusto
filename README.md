@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Isaias Justo — Data, Machine Learning e AI" width="100%">
+</p>
+
 # Olá, eu sou Isaias Justo 👋
 
 ### Data Scientist | Machine Learning | Analytics Engineering | Data Products
@@ -143,6 +147,30 @@ Esses projetos representam etapas anteriores da minha evolução técnica e comp
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-111111?style=flat-square)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+---
+
+## Além do código 🌌
+
+A tecnologia é uma parte importante de quem eu sou, mas não a única. Também encontro inspiração em narrativas, música, jogos e design.
+
+| | |
+|---|---|
+| 🎬 **Anime e mangá** | Cowboy Bebop, Berserk e histórias que misturam humanidade, melancolia e ficção |
+| 🎮 **Games** | Final Fantasy, JRPGs e mundos que recompensam exploração e estratégia |
+| 🎧 **Trilha sonora** | Tchaikovsky, Debussy, Erik Satie, Fred again.. e Overmono |
+| ⌚ **Design e detalhes** | Relógios, interfaces, estética minimalista e tecnologia |
+
+```python
+isaias = {
+    "constrói": "produtos de dados com contexto",
+    "explora": ["Machine Learning", "IA governada", "boas histórias"],
+    "soundtrack": "do piano impressionista ao eletrônico",
+    "status": "evoluindo o FinPulse AI",
+}
+```
+
+> **See you, space cowboy...**
 
 ---
 
