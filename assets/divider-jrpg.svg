@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="135" viewBox="0 0 1200 135" role="img" aria-labelledby="t3 d3">
+<title id="t3">JRPG anime divider</title><desc id="d3">Original JRPG scene with luminous crystal, particles and pixel landscape.</desc>
+<defs><linearGradient id="cbg" x2="1"><stop stop-color="#07111f"/><stop offset=".5" stop-color="#172554"/><stop offset="1" stop-color="#2e1065"/></linearGradient><linearGradient id="cr" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#cffafe"/><stop offset=".45" stop-color="#38bdf8"/><stop offset="1" stop-color="#a855f7"/></linearGradient><filter id="cg"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<rect width="1200" height="135" rx="18" fill="url(#cbg)"/>
+<ellipse cx="910" cy="70" rx="72" ry="45" fill="#38bdf8" opacity=".13" filter="url(#cg)"/>
+<g transform="translate(910 17)"><path d="M0 0 31 31 18 88 0 104-18 88-31 31Z" fill="url(#cr)"/><path d="M0 0v104M-31 31h62M-18 88l49-57M18 88l-49-57" stroke="#ecfeff" stroke-opacity=".55" fill="none"/></g>
+<g fill="#e0f2fe"><circle cx="790" cy="32" r="2"><animate attributeName="cy" values="32;20;32" dur="3s" repeatCount="indefinite"/></circle><circle cx="1030" cy="76" r="1.7"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="1090" cy="30" r="2"/><circle cx="720" cy="91" r="1.5"/></g>
+<path d="M0 111h120v-11h95v7h120V91h98v15h130v-8h104v13h533v24H0Z" fill="#060b16"/>
+<path d="M75 81h40v30H75zm63-17h35v47h-35zm55 29h58v18h-58z" fill="#0f2744"/>
+<text x="70" y="47" fill="#e0e7ff" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">EXPLORE • BUILD • LEVEL UP</text>
+<text x="72" y="75" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">EVERY PROJECT IS A NEW WORLD</text>
+</svg>
