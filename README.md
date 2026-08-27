@@ -31,6 +31,10 @@ Nos projetos públicos, busco demonstrar não apenas modelos, mas também **arqu
 
 ---
 
+<p align="center">
+  <img src="./assets/divider-space.svg" alt="Divisor anime espacial com estrelas, planeta e fluxo de dados" width="100%">
+</p>
+
 # Projetos selecionados
 
 ## 1. [FinPulse AI](https://github.com/isaiasjusto/finpulse-ai) — plataforma end-to-end
@@ -62,6 +66,10 @@ MinIO → PostgreSQL → dbt → CatBoost → MLflow
 **Demonstra:** Engenharia de Dados, Analytics Engineering, Machine Learning, MLOps, APIs, explicabilidade, IA generativa e governança.
 
 ---
+
+<p align="center">
+  <img src="./assets/divider-dark-fantasy.svg" alt="Divisor anime dark fantasy com eclipse e espada" width="100%">
+</p>
 
 ## 2. [Modelo de Aprovação de Crédito](https://github.com/isaiasjusto/credit-approval-risk-model) — decisão orientada a custo
 
@@ -98,6 +106,10 @@ Aplicação de NLP que classifica avaliações de jogos em sete categorias por m
 **Demonstra:** NLP, Transformers, Deep Learning, inferência com GPU e construção de aplicações de dados.
 
 ---
+
+<p align="center">
+  <img src="./assets/divider-jrpg.svg" alt="Divisor anime JRPG com cristal luminoso" width="100%">
+</p>
 
 ## Outros estudos públicos
 
