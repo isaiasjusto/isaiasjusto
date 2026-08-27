@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Isaias Justo — Data, Machine Learning and AI</title>
+  <desc id="desc">Anime-inspired cyberpunk night banner with neon city, stars and data streams.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#071a2f"/>
+      <stop offset="1" stop-color="#160b2f"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="moon">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset="0.55" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#0891b2"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38bdf8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+
+  <g fill="#e0f2fe">
+    <circle cx="76" cy="58" r="2"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="92" r="1.5"><animate attributeName="opacity" values="1;.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="265" cy="48" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="505" cy="70" r="2"><animate attributeName="opacity" values="1;.25;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="715" cy="44" r="1.5"><animate attributeName="opacity" values=".3;1;.3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="88" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="48" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="3.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <circle cx="1010" cy="98" r="64" fill="#22d3ee" opacity=".12" filter="url(#glow)"/>
+  <circle cx="1010" cy="98" r="49" fill="url(#moon)" opacity=".92"/>
+  <circle cx="991" cy="82" r="48" fill="#071a2f"/>
+
+  <g opacity=".8">
+    <path d="M0 246 H1200" stroke="#22d3ee" stroke-opacity=".25"/>
+    <path d="M0 263 H1200" stroke="#a855f7" stroke-opacity=".22"/>
+  </g>
+
+  <g fill="#081426" stroke="#22d3ee" stroke-opacity=".26">
+    <path d="M760 244v-58h40v58zM806 244v-92h54v92zM868 244v-68h42v68zM917 244v-112h61v112zM986 244v-75h47v75zM1040 244v-101h72v101zM1120 244v-62h45v62z"/>
+  </g>
+  <g fill="#67e8f9" opacity=".62">
+    <rect x="819" y="166" width="5" height="7"/><rect x="838" y="166" width="5" height="7"/>
+    <rect x="930" y="148" width="6" height="8"/><rect x="954" y="148" width="6" height="8"/>
+    <rect x="1053" y="160" width="6" height="8"/><rect x="1080" y="160" width="6" height="8"/>
+    <rect x="1053" y="186" width="6" height="8"/><rect x="1080" y="186" width="6" height="8"/>
+  </g>
+
+  <path d="M62 224 C120 188, 166 254, 220 214 S328 198, 382 221 S489 249, 548 204 S652 185, 724 218"
+        fill="none" stroke="url(#neon)" stroke-width="4" stroke-linecap="round" filter="url(#glow)">
+    <animate attributeName="stroke-dasharray" values="4 14;18 6;4 14" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="62" y="108" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800" letter-spacing="3">ISAIAS JUSTO</text>
+  <rect x="63" y="126" width="520" height="4" rx="2" fill="url(#neon)" filter="url(#glow)"/>
+  <text x="63" y="166" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" letter-spacing="4">DATA • MACHINE LEARNING • AI</text>
+  <text x="64" y="194" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">データ • 機械学習 • 人工知能</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+    <rect x="63" y="262" width="58" height="28" rx="14" fill="#0e7490" opacity=".6"/><text x="80" y="281" fill="#ecfeff">PY</text>
+    <rect x="131" y="262" width="65" height="28" rx="14" fill="#0f766e" opacity=".6"/><text x="148" y="281" fill="#ecfeff">SQL</text>
+    <rect x="206" y="262" width="58" height="28" rx="14" fill="#6b21a8" opacity=".6"/><text x="223" y="281" fill="#faf5ff">ML</text>
+    <rect x="274" y="262" width="58" height="28" rx="14" fill="#7e22ce" opacity=".6"/><text x="294" y="281" fill="#faf5ff">AI</text>
+  </g>
+
+  <text x="1130" y="286" text-anchor="end" fill="#c4b5fd" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">SEE YOU, SPACE COWBOY...</text>
+</svg>
