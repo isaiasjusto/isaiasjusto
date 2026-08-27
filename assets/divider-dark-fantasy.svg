@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="135" viewBox="0 0 1200 135" role="img" aria-labelledby="t2 d2">
+<title id="t2">Dark fantasy anime divider</title><desc id="d2">Original dark fantasy scene with eclipse, sword and distant mountains.</desc>
+<defs><linearGradient id="dbg" x2="1"><stop stop-color="#09090b"/><stop offset=".55" stop-color="#1c1917"/><stop offset="1" stop-color="#270b18"/></linearGradient><radialGradient id="e"><stop stop-color="#fb7185"/><stop offset="1" stop-color="#9f1239"/></radialGradient><filter id="dg"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<rect width="1200" height="135" rx="18" fill="url(#dbg)"/>
+<circle cx="930" cy="52" r="40" fill="#e11d48" opacity=".18" filter="url(#dg)"/><circle cx="930" cy="52" r="29" fill="url(#e)"/><circle cx="922" cy="47" r="28" fill="#18181b"/>
+<path d="M0 112 L150 61 280 108 410 53 565 110 720 66 860 112 1010 73 1200 112V135H0Z" fill="#09090b"/>
+<g transform="translate(610 24) rotate(8)"><rect x="-3" y="0" width="6" height="78" rx="2" fill="#d6d3d1"/><path d="M0 0l-8 18h16z" fill="#fda4af"/><rect x="-16" y="58" width="32" height="5" rx="2" fill="#a8a29e"/><rect x="-4" y="63" width="8" height="19" fill="#78350f"/></g>
+<g fill="none" stroke="#a1a1aa" stroke-width="1.6"><path d="M260 40q11-10 22 0q11-10 22 0"/><path d="M350 70q8-7 16 0q8-7 16 0"/></g>
+<text x="70" y="113" fill="#fda4af" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">STRUGGLE • LEARN • EVOLVE</text>
+</svg>
